@@ -109,6 +109,7 @@ body{
 .khungThu3-phanNoiDung{
     width: 1088px;
     height: 514px;
+    display: flex;
     align-items: center;
     justify-content: center;
 }
