@@ -648,6 +648,7 @@ u{
     display: flex;
     align-items: center;
     justify-content: center;
+    padding-top:0;
 }
 .khung9-ND{
     width: 1104px;
